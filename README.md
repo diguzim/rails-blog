@@ -1,24 +1,13 @@
-# README
+# Installation
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+To Do
 
-Things you may want to cover:
+# Running
 
-* Ruby version
+Run on your terminal
 
-* System dependencies
+```
+bin/rails server
+```
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+If you are asked for a username and password use the _username_ as `dhh` and _password_ as `secret`
